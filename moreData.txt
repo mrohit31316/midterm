@@ -1,1 +1,2 @@
 college : kristu jayanti college
+class: 4 bca c
